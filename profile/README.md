@@ -24,5 +24,5 @@ Quick GIS 主要研发方向是采用开源技术制作桌面端、浏览器端�
 
 
 ## 文档
-- [GIS矢量桌面编辑器使用文档](/desktop-doc/)
-- [GIS矢量WEB编辑器使用文档](/pc/)
+- [GIS矢量桌面编辑器使用文档](../desktop-doc/README.md)
+- [GIS矢量WEB编辑器使用文档](../pc/readme.md)
